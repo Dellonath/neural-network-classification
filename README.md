@@ -9,8 +9,7 @@ This Neural Network takes points scattered in a three-dimentional space and clas
 * Class Purple: [0, 0, 1]
 
 The Dataset contains 500 random samples, each one with 3 features (x, y, z coordinates).
-![](https://user-images.githubusercontent.com/56659549/104233069-02f97b80-5430-11eb-9936-5a1737ec0f0f.png)
-
+<img src = "https://user-images.githubusercontent.com/56659549/104233069-02f97b80-5430-11eb-9936-5a1737ec0f0f.png" height = "350" widht = "400">
 ### Libraries used
 - **Numpy** for NN implementarion
 - **Matplotlib** for stats visualization
