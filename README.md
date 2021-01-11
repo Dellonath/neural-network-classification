@@ -12,10 +12,14 @@ This Neural Network takes points scattered in a three-dimentional space and clas
 
 <img src = "https://user-images.githubusercontent.com/56659549/104233069-02f97b80-5430-11eb-9936-5a1737ec0f0f.png" height = "350" widht = "400">
 
+______
+
 ### Libraries used
 - **Numpy** for NN implementarion
 - **Matplotlib** for stats visualization
 - **Sklearn** for dataset generation and normalization
+
+______
 
 ### Structure
 |  Layer  |Activation Function|Number of Neurons  |
@@ -29,7 +33,7 @@ The **cost** was calculated with Neg-LogLikelihood function.
 
 <img src = "https://user-images.githubusercontent.com/56659549/104227713-95961c80-5428-11eb-89b7-b438986a19c8.png" height = "350" widht = "400">
 
-
+______
 
 
 ### References
