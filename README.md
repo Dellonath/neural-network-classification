@@ -1,6 +1,6 @@
 # Neural Network to Classification Multiclass  
 
-My first implementation of a Neural Network! The purpose of this is to apply my studies about Deep Learning, specifically feed foward, matrix multiplication, partial derivatives and backpropagation algorithm.
+My first implementation of a Neural Network! The purpose of this is to apply my studies about Deep Learning, specifically feedfoward, matrix multiplication, partial derivatives and backpropagation algorithm.
 
 ### Description
 This Neural Network takes points scattered in a three-dimentional space and classifies them in 3 possible classes:
