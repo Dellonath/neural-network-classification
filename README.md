@@ -24,7 +24,7 @@ ______
 ### Structure
 |  Layer  |Activation Function|Number of Neurons  |
 |---------|-------------------|-------------------|
-| Input   |         -         |3                  |
+| Input   |      Linear       |3                  |
 | Hidden1 |      Linear       |3                  |
 | Hidden2 |      Relu         |3                  |
 | Output  |      Softmax      |3                  |
