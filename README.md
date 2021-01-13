@@ -16,7 +16,7 @@ ______
 
 ### Libraries used
 - **Numpy** for NN implementarion
-- **Matplotlib** for stats visualization
+- **Matplotlib** for samples, accuracy and stats visualization
 - **Sklearn** for dataset generation and normalization
 
 ______
